@@ -1,10 +1,10 @@
-/**
+ï»¿/**
  * 
  */
 package com.hanlinonlne.singleton;
 
 /**
- * µ¥ÀıÄ£Ê½
+ * å•ä¾‹æ¨¡å¼
  * 
  * @author lazier
  */
